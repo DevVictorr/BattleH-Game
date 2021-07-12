@@ -1,4 +1,4 @@
-
+#teste
 class tree():
 
     def __init__(self, nome, level):
