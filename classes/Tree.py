@@ -9,9 +9,21 @@ class tree():
         self.defense = defense
         self.heal    = heal
     
-
-    def prt(self):
-        print(self.nome)
     
-    def arena(self):
-        print("Log")
+    #def atack():
+
+    #def defense():
+
+    #def heal():
+
+    #def run():
+
+    #def buff():
+
+    #def debuff():
+   
+    
+
+
+    
+        
