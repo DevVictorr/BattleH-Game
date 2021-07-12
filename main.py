@@ -4,17 +4,17 @@ from classes.Mage import Strombf as Mage
 from classes.Warrior import Orcud as Warriors
 
 #Druid
-Druida_ginsumef = Druida.xim("Ginsumef", 535,123,316,278)
-Druida_eightica = Druida.xim("Eightica", 540,96,324,290)
+Druida_ginsumef = Druida.xim(nome="Ginsumef", vida=535,life=123,atack=316,heal=278)
+Druida_eightica = Druida.xim(nome="Eightica", vida=540,life=96,atack=324,heal=290)
 
 #Hunter
-Hunter_sethy = Hunter.eli("Sethy", 623,143,198,0)
-Hunter_micksp = Hunter.eli("Micksp", 587,139,183,0)
+Hunter_sethy = Hunter.eli(nome="Sethy", vida=623,life=143,atack=198,heal=0)
+Hunter_micksp = Hunter.eli(nome="Micksp", vida=587,life=139,atack=183,heal=0)
 
 #Mage
-Mage_caym = Mage.strom("Caym", 356,125,154,0)
-Mage_dicho = Mage.strom("Dicho", 319,143,203,0)
+Mage_caym = Mage.strom(nome="Caym", vida=356,life=125,atack=154,heal=0)
+Mage_dicho = Mage.strom(nome="Dicho", vida=319,life=143,atack=203,heal=0)
 
 #Warriors
-Warriors_anieba = Warriors.orc("Anieba", 750,134,320,0)
-Warriors_terthe = Warriors.orc("Terthe", 789,110,298,0)
+Warriors_anieba = Warriors.orc(nome="Anieba", vida=750,life=134,atack=320,heal=0)
+Warriors_terthe = Warriors.orc(nome="Terthe", vida=789,life=110,atack=298,heal=0)
