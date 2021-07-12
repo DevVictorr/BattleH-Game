@@ -11,7 +11,7 @@ class tree():
     
 
     def prt(self):
-        print(self.nome,self.level)
+        print(self.nome)
     
     def arena(self):
         print("Log")
