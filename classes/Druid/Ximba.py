@@ -1,10 +1,10 @@
 from classes.Tree import *
 
 
-class teste(tree):
+class xim(tree):
 
-    def __init__(self, nome, level):
-        super().__init__(nome, level)
+    def __init__(self, name, life, atack, defense, heal):
+        super().__init__(name, life, atack, defense, heal)
 
     def prt(self):
         return super().prt()
