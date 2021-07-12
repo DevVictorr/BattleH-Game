@@ -8,10 +8,4 @@ class tree():
         self.atack   = atack
         self.defense = defense
         self.heal    = heal
-    
 
-    def prt(self):
-        print(self.nome,self.level)
-    
-    def arena(self):
-        print("Log")
