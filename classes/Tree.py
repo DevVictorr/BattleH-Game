@@ -8,3 +8,22 @@ class tree():
         self.atack   = atack
         self.defense = defense
         self.heal    = heal
+    
+    
+    #def atack():
+
+    #def defense():
+
+    #def heal():
+
+    #def run():
+
+    #def buff():
+
+    #def debuff():
+   
+    
+
+
+    
+        

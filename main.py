@@ -18,6 +18,3 @@ Mage_dicho = Mage.strom("Dicho", 319,143,203,0)
 #Warriors
 Warriors_anieba = Warriors.orc("Anieba", 750,134,320,0)
 Warriors_terthe = Warriors.orc("Terthe", 789,110,298,0)
-
-
-Druida_eightica.prt()
