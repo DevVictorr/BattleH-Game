@@ -1,10 +1,13 @@
 
 class tree():
 
-    def __init__(self, nome, level):
+    def __init__(self, name, life, atack, defense, heal):
 
-        self.nome    = nome
-        self.level   = level
+        self.nome    = name
+        self.vida    = life
+        self.atack   = atack
+        self.defense = defense
+        self.heal    = heal
     
 
     def prt(self):
