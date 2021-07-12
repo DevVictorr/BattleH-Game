@@ -8,4 +8,3 @@ class tree():
         self.atack   = atack
         self.defense = defense
         self.heal    = heal
-
