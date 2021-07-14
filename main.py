@@ -1,20 +1,26 @@
+from classes.Tree import tree
 from classes.Druid import Ximba as Druida
 from classes.Hunter import Elias as Hunter
 from classes.Mage import Strombf as Mage
 from classes.Warrior import Orcud as Warriors
 
 #Druid
-Druida_ginsumef = Druida.xim(nome="Ginsumef", vida=535,life=123,atack=316,heal=278)
-Druida_eightica = Druida.xim(nome="Eightica", vida=540,life=96,atack=324,heal=290)
+jogador1 = Druida_ginsumef = Druida.xim(name="Ginsumef", life=535,atack=123,defense=316,heal=278)
+jogador2 = Druida_eightica = Druida.xim(name="Eightica", life=540,atack=96,defense=324,heal=290)
 
 #Hunter
-Hunter_sethy = Hunter.eli(nome="Sethy", vida=623,life=143,atack=198,heal=0)
-Hunter_micksp = Hunter.eli(nome="Micksp", vida=587,life=139,atack=183,heal=0)
+jogador3 = Hunter_sethy = Hunter.eli(name="Sethy", life=623,atack=143,defense=198,heal=0)
+jogador4 = Hunter_micksp = Hunter.eli(name="Micksp", life=587,atack=139,defense=183,heal=0)
 
 #Mage
-Mage_caym = Mage.strom(nome="Caym", vida=356,life=125,atack=154,heal=0)
-Mage_dicho = Mage.strom(nome="Dicho", vida=319,life=143,atack=203,heal=0)
+jogador5 = Mage_caym = Mage.strom(name="Caym", life=356,atack=125,defense=154,heal=0)
+jogador6 = Mage_dicho = Mage.strom(name="Dicho", life=319,atack=143,defense=203,heal=0)
 
 #Warriors
-Warriors_anieba = Warriors.orc(nome="Anieba", vida=750,life=134,atack=320,heal=0)
-Warriors_terthe = Warriors.orc(nome="Terthe", vida=789,life=110,atack=298,heal=0)
+jogador7 = Warriors_anieba = Warriors.orc(name="Anieba", life=750,atack=134,defense=320,heal=0)
+jogador8 = Warriors_terthe = Warriors.orc(name="Terthe", life=789,atack=110,defense=298,heal=0)
+jogador9 = Warriors_ify = Warriors.orc(name="Ify", life=779,atack=112,defense=288,heal=0)
+
+tree.heal(jogador1)
+
+
