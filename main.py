@@ -11,6 +11,7 @@ jogador2 = Druida_eightica = Druida.xim(name="Eightica", life=540,atack=96,defen
 #Hunter
 jogador3 = Hunter_sethy = Hunter.eli(name="Sethy", life=623,atack=143,defense=198,heal=0)
 jogador4 = Hunter_micksp = Hunter.eli(name="Micksp", life=587,atack=139,defense=183,heal=0)
+jogador11 = Hunter_ranteral = Hunter.eli(name="Ranteral", life=487,atack=239,defense=193,heal=0)
 
 #Mage
 jogador5 = Mage_caym = Mage.strom(name="Caym", life=356,atack=125,defense=154,heal=0)
