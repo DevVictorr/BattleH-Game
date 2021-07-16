@@ -9,12 +9,14 @@ class tree():
         self.defense = defense
         self.heal    = heal
     
-    
     #def atack():
 
     #def defense():
 
     #def heal():
+    def heal(jogador):
+        jogador.vida = jogador.vida + jogador.heal
+        print('Sua nova vida é', (jogador.vida))
 
     #def run():
 
