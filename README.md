@@ -1,3 +1,3 @@
 # BattleH-Game
 
-Jogo POO, Em python, em construção
+Jogo POO, Em python, em construção, classes, arena, skills
