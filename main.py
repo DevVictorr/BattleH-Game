@@ -18,6 +18,7 @@ jogador11 = Hunter_ranteral = Hunter.eli(name="Ranteral", life=487,atack=239,def
 jogador5 = Mage_caym = Mage.strom(name="Caym", life=356,atack=125,defense=154,heal=0)
 jogador6 = Mage_dicho = Mage.strom(name="Dicho", life=319,atack=143,defense=203,heal=0)
 jogador10 = Mage_prectrad = Mage.strom(name="Prectrad", life=329,atack=142,defense=213,heal=0)
+jogador14 = Mage_rats = Mage.strom(name="Rats", life=319,atack=132,defense=203,heal=0)
 
 #Warriors
 jogador7 = Warriors_anieba = Warriors.orc(name="Anieba", life=750,atack=134,defense=320,heal=0)
