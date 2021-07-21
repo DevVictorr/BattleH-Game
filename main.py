@@ -23,6 +23,7 @@ jogador10 = Mage_prectrad = Mage.strom(name="Prectrad", life=329,atack=142,defen
 jogador7 = Warriors_anieba = Warriors.orc(name="Anieba", life=750,atack=134,defense=320,heal=0)
 jogador8 = Warriors_terthe = Warriors.orc(name="Terthe", life=789,atack=110,defense=298,heal=0)
 jogador9 = Warriors_ify = Warriors.orc(name="Ify", life=779,atack=112,defense=288,heal=0)
+jogador13 = Warriors_uys= Warriors.orc(name="Uys", life=879,atack=102,defense=278,heal=0)
 
 tree.heal(jogador1)
 
