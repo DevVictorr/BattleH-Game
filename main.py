@@ -8,6 +8,7 @@ from classes.Warrior import Orcud as Warriors
 jogador1 = Druida_ginsumef = Druida.xim(name="Ginsumef", life=535,atack=123,defense=316,heal=278)
 jogador2 = Druida_eightica = Druida.xim(name="Eightica", life=540,atack=96,defense=324,heal=290)
 jogador12 = Druida_pareawai = Druida.xim(name="Pareawai", life=539,atack=98,defense=314,heal=299)
+jogador16 = Druida_awai = Druida.xim(name="Awai", life=549,atack=108,defense=324,heal=289)
 
 #Hunter
 jogador3 = Hunter_sethy = Hunter.eli(name="Sethy", life=623,atack=143,defense=198,heal=0)
