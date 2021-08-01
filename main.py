@@ -8,11 +8,13 @@ from classes.Warrior import Orcud as Warriors
 jogador1 = Druida_ginsumef = Druida.xim(name="Ginsumef", life=535,atack=123,defense=316,heal=278)
 jogador2 = Druida_eightica = Druida.xim(name="Eightica", life=540,atack=96,defense=324,heal=290)
 jogador12 = Druida_pareawai = Druida.xim(name="Pareawai", life=539,atack=98,defense=314,heal=299)
+jogador16 = Druida_awai = Druida.xim(name="Awai", life=549,atack=108,defense=324,heal=289)
 
 #Hunter
 jogador3 = Hunter_sethy = Hunter.eli(name="Sethy", life=623,atack=143,defense=198,heal=0)
 jogador4 = Hunter_micksp = Hunter.eli(name="Micksp", life=587,atack=139,defense=183,heal=0)
 jogador11 = Hunter_ranteral = Hunter.eli(name="Ranteral", life=487,atack=239,defense=193,heal=0)
+jogador15 = Hunter_teral = Hunter.eli(name="Teral", life=497,atack=339,defense=183,heal=0)
 
 #Mage
 jogador5 = Mage_caym = Mage.strom(name="Caym", life=356,atack=125,defense=154,heal=0)
